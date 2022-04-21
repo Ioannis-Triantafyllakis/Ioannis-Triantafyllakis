@@ -1,3 +1,5 @@
+## About me:
+
 - 👋 Hi, I’m @Ioannis-Triantafyllakis
 - 👀 I’m interested in Data Science (mostly Data Engineering), SQL, Python, R, Statistics, Visualizations, startups and enterpreneurship, tech stocks, and books (a lot of books!)
 - 🌱 I’m currently learning Business Analytics (M.Sc. in Business Analytics @ Athens University of Economics and Business)
@@ -11,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Languages and Tools:
 
-<img src='https://github.com/nicktsekas/test/blob/main/icons8-sql-60.png' alt='sql' height='40'>          <img src='https://github.com/nicktsekas/test/blob/main/icons8-python-48.png' alt='python' height='40'>     <img src='https://github.com/nicktsekas/test/blob/main/icons8-r-64.png' alt='r' height='40'>         <img src='https://github.com/nicktsekas/test/blob/main/icons8-tableau-software-48.png' alt='tableau' height='40'>         <img src='https://github.com/nicktsekas/test/blob/main/icons8-power-bi-48.png' alt='powerbi' height='40'>          <img src='https://github.com/nicktsekas/test/blob/main/icons8-console-40.png' alt='bash' height='40'>
-<img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-mysql-logo-48.png' alt='MySQL' height='40'>  <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-redis-48.png' alt='Redis' height='40'>
+  <img src='https://github.com/nicktsekas/test/blob/main/icons8-python-48.png' alt='python' height='40'>     <img src='https://github.com/nicktsekas/test/blob/main/icons8-r-64.png' alt='r' height='40'>   <img src='https://github.com/nicktsekas/test/blob/main/icons8-tableau-software-48.png' alt='tableau' height='40'>  <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-mysql-logo-480.png' alt='Redis' height='40'>      <img src='https://github.com/nicktsekas/test/blob/main/icons8-power-bi-48.png' alt='powerbi' height='40'>          <img src='https://github.com/nicktsekas/test/blob/main/icons8-console-40.png' alt='bash' height='40'> <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-redis-48.png' alt='Redis' height='40'>    <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-mongodb-480.png' alt='MongoDB' height='40'>
 
 
