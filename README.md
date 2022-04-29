@@ -11,7 +11,7 @@ Ioannis-Triantafyllakis/Ioannis-Triantafyllakis is a ✨ special ✨ repository 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Languages and Tools:
+## Languages and Tools i know and/or currently study:
 
   <img src='https://github.com/nicktsekas/test/blob/main/icons8-python-48.png' alt='python' height='40'>     <img src='https://github.com/nicktsekas/test/blob/main/icons8-r-64.png' alt='r' height='40'>   <img src='https://github.com/nicktsekas/test/blob/main/icons8-tableau-software-48.png' alt='tableau' height='40'>  <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-mysql-logo-480.png' alt='Redis' height='40'>      <img src='https://github.com/nicktsekas/test/blob/main/icons8-power-bi-48.png' alt='powerbi' height='40'>          <img src='https://github.com/nicktsekas/test/blob/main/icons8-console-40.png' alt='bash' height='40'> <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-redis-48.png' alt='Redis' height='40'>    <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-mongodb-480.png' alt='MongoDB' height='40'>    
 
