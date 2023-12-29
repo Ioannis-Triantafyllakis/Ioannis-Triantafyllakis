@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
   <img src='https://github.com/nicktsekas/test/blob/main/icons8-r-64.png' alt='r' height='40'>  
   <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-mysql-logo-480.png' alt='Redis' height='40'>   
   <img src='https://github.com/nicktsekas/test/blob/main/icons8-console-40.png' alt='bash' height='40'> 
-  <img src='https://github.com/Ioannis-Triantafyllakis/Ioannis-Triantafyllakis/blob/main/icons8-redis-48.png' alt='Redis' height='40'>        
+  <img src='https://github.com/Ioannis-Triantafyllakis/test/blob/mainsql-server.png' alt='SQL-Server' height='40'>     
 
  
