@@ -4,9 +4,12 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/john-triantafyllakis-a9761b163//)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jtriantafillakis@yahoo.gr)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jtriantafillakis@gmail.com)
+
 
 [![Github](https://img.shields.io/github/followers/Ioannis-Triantafyllakis?label=Follow&style=social)](https://github.com/Ioannis-Triantafyllakis)
+
+
 
 ## About me:
 
@@ -23,7 +26,7 @@
 - Automations
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=SQL-Server&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=PySpark&color=353535) ![Bootstrap](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Databricks%20workfows-05122A?style=flat&logo=Databricks-workfows&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=SQL-Server&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=PySpark&color=353535) ![Bootstrap](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Databricks%20workfows-05122A?style=flat&logo=Databricks-workfows&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&color=353535)
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ioannis-Triantafyllakis&show_icons=true&locale=en&layout=compact" alt="Ioannis-Triantafyllakis" />
@@ -32,7 +35,7 @@
 
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+
 
 <!---
 Ioannis-Triantafyllakis/Ioannis-Triantafyllakis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
